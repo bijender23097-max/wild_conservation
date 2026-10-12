@@ -10,8 +10,8 @@ To educate individuals on wildlife preservation, highlight critically endangered
 ---
 
 ## 🚀 Live Demo
-- **Live Deployment:** [Your Vercel Link Here]
-- **GitHub Repository:** [Your GitHub Repository Link Here]
+- **Live Deployment:** [https://wildconservation.vercel.app/]
+- **GitHub Repository:** [https://github.com/bijender23097-max/wild_conservation]
 
 ---
 
